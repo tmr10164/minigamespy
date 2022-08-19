@@ -1,2 +1,2 @@
-# minigamespy
-classical mini games written in python
+# MinigamesPy
+classic minigame written on python
